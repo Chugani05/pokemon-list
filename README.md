@@ -1,9 +1,12 @@
 # Pokemon List
 
+<div align=center>
+  <img src="./resources/pokemon-list.png" alt="final look of the project" width="100%">
+</div>
+
 ## Content
 - [Description](#description)
 
 ### Description
-The **"Pokémon List"** is a Django application that displays a list of Pokémon, allowing users to view detailed information for each Pokémon.
 
-Users can browse through the list, click on individual Pokémon to see their stats, and explore key attributes such as type, stats, and generation. The app is designed with an easy-to-navigate interface, making it simple to explore and discover various Pokémon details. You can also add search or filter functionality to allow users to sort by type, stats, or generation.
+A **Django-based** web application that displays a complete catalog of Pokémon through an intuitive interface, allowing users to browse the list and view detailed information for each entry, including type, stats, and generation; it offers smooth navigation and can be enhanced with search and filter features so users can easily sort Pokémon by attributes such as type, stats, or generation.
